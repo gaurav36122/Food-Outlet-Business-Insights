@@ -4,6 +4,12 @@
 Food Restaurant Business Insights is a Power BI analytics project focused on evaluating restaurant outlet performance, sales trends, and profitability across multiple order channels.  
 The dashboard delivers actionable insights to help business stakeholders optimize pricing, discounts, staffing, and channel strategy.
 
+## 📸 Dashboard Preview
+
+![Food Restaurant Business Insights Dashboard](https://raw.githubusercontent.com/gaurav36122/Food-Outlet-Business-Insights/22cc935d6d5c86abe3f5acd0a34e1c538c981e39/Deshboard_Image.png)
+
+---
+
 
 
 ---
